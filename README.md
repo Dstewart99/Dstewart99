@@ -1,3 +1,4 @@
+
 ## 🔐 Identity & Access Management Projects by Deandra Stewart
 
 Welcome to my IAM lab collection — where I document real-world identity and cloud security projects focused on Microsoft Entra ID and Okta.
@@ -24,7 +25,16 @@ Each project is designed to practice how identities are created, secured, and mo
 
 - CompTIA Security+  
 - Microsoft Azure Fundamentals (AZ-900)  
-- Currently studying: Microsoft Security, Compliance, and Identity (SC-900)  
+- Currently studying: Microsoft Security, Compliance, and Identity (SC-900)
+
+  ---
+
+### 📂 Full IAM Lab Portfolio
+
+For detailed weekly labs, scenarios, and notes, see my IAM portfolio repo:
+
+👉 [IAM--Portfolio](https://github.com/Dstewart99/IAM--Portfolio)
+----
 
 
 📍 Based in NC · Open to remote IAM Analyst opportunities  
