@@ -1,6 +1,6 @@
 ## 🔐 Identity & Access Management Projects by Deandra Stewart
 
-Welcome to my IAM lab, where I document real-world identity and cloud security projects focused on Microsoft Entra ID and Okta.
+Welcome to my IAM lab collection, where I’m building and documenting hands-on identity and cloud security projects focused on Microsoft Entra ID and Okta.
 
 I specialize in:
 
