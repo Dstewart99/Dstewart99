@@ -1,36 +1,21 @@
+## 🔐 Identity & Access Management Projects by Deandra Stewart
 
-# Deandra Stewart's IT and IAM Project Portfolio 🔐
+Welcome to my IAM lab collection — where I document real-world identity and cloud security projects focused on Microsoft Entra ID and Okta.
 
-I’m an IT help desk professional transitioning into Identity and Access Management (IAM), with 3+ years of experience supporting users in Microsoft 365, Active Directory, and Azure environments. I’m focused on securing identities, improving access controls, and building IAM projects that model real-world scenarios. 
+I specialize in:
 
----
+- 🔑 Identity & Access Management (IAM) for Microsoft 365, Active Directory, and Azure  
+- 🛡️ Microsoft Entra ID (Azure AD) security, MFA, and Conditional Access  
+- 👥 Identity lifecycle and access governance (joiners, movers, leavers)  
+- 📩 ServiceNow ticketing workflows used for user onboarding and offboarding  
 
-### 🔐 What I’m Working On
+I’m currently learning:
 
-- Building IAM labs in Microsoft Entra ID (Azure AD) and Okta  
-- Experimenting with MFA, Conditional Access, and RBAC  
-- Documenting real-world style identity and access scenarios  
+- ☁️ Okta SSO, lifecycle management, and access policies  
 
----
+Each project is designed to practice how identities are created, secured, and monitored in modern environments. I’m transitioning from IT help desk into IAM and use these labs to sharpen my skills and show my thinking.
 
-### 🧪 Featured Projects
-
-- **IAM--Portfolio** – My IAM labs, goals, and learning roadmap  
-- **entra-id-labs** – Testing Conditional Access, MFA, and sign-in risk  
-- **okta-iam-labs** – Practicing SSO, lifecycle management, and policies in Okta  
-
----
-
-### 🛡️ Skills & Certs
-
-- Microsoft 365, Active Directory, Microsoft Entra ID (Azure AD)  
-- ServiceNow access requests and ticket-based support  
-- **Certifications:** CompTIA Security+, Microsoft Azure Fundamentals (AZ-900)  
-- Learning: Microsoft SC-900 (Security, Compliance, and Identity)  
-
----
-
-### 🤝 Connect
+📍 Based in NC · Open to remote IAM Analyst opportunities  
 
 - LinkedIn: https://www.linkedin.com/in/deandra-stewart-2301a6352/  
 - GitHub: https://github.com/Dstewart99
