@@ -1,5 +1,5 @@
 
-## Hi there, I’m Deandra 👋
+# Deandra Stewart's IT and IAM Project Portfolio 🔐
 
 I’m an IT help desk professional transitioning into Identity and Access Management (IAM), with 3+ years of experience supporting users in Microsoft 365, Active Directory, and Azure environments. I’m focused on securing identities, improving access controls, and building IAM projects that model real-world scenarios. 
 
