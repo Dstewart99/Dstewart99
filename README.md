@@ -13,9 +13,19 @@ I specialize in:
 
 I’m currently learning:
 
-- ☁️ Okta SSO, lifecycle management, and access policies  
+- ☁️ Okta SSO, lifecycle management, and access policies
+- 💻 PowerShell for basic identity and access automation 
 
 Each project is designed to practice how identities are created, secured, and monitored in modern environments. I’m transitioning from IT help desk into IAM and use these labs to sharpen my skills and show my thinking.
+
+ 
+
+🎓 Certifications:
+
+- CompTIA Security+  
+- Microsoft Azure Fundamentals (AZ-900)  
+- Currently studying: Microsoft Security, Compliance, and Identity (SC-900)  
+
 
 📍 Based in NC · Open to remote IAM Analyst opportunities  
 
