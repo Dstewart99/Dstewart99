@@ -29,7 +29,6 @@ For detailed weekly labs, scenarios, and notes, see my IAM portfolio repo:
 📍 Based in NC · Open to remote IAM Analyst opportunities  
 
 - LinkedIn: https://www.linkedin.com/in/deandra-stewart-2301a6352/  
-- GitHub: https://github.com/Dstewart99
 
 
  
