@@ -32,6 +32,6 @@ I’m an IT help desk professional transitioning into Identity and Access Manage
 
 ### 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/deandra-stewart  
+- LinkedIn: https://www.linkedin.com/in/deandra-stewart-2301a6352/  
 - GitHub: https://github.com/Dstewart99
 
