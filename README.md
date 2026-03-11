@@ -9,10 +9,6 @@ I specialize in:
 - 👥 Identity lifecycle and access governance (joiners, movers, leavers)  
 - 📩 ServiceNow ticketing workflows for user onboarding, role changes, and offboarding  
 
-I’m currently learning:
-
-- ☁️ Okta SSO, lifecycle management, and access policies  
-- 💻 PowerShell for basic identity and access automation  
 
 Each project is designed to practice how identities are created, secured, and monitored in modern environments. I’m transitioning from IT help desk into IAM and use these labs to sharpen my skills and show my thinking.
 
