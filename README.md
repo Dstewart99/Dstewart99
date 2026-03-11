@@ -9,7 +9,7 @@ I specialize in:
 - 🛡️ Microsoft Entra ID (Azure AD) identity security, MFA, and Conditional Access  
 - 👥 Identity lifecycle and access governance (joiners, movers, leavers)  
 - 📩 ServiceNow ticketing workflows for user onboarding, role changes, and offboarding.
-
+-----------
 
 
 I’m currently learning:
@@ -18,7 +18,7 @@ I’m currently learning:
 - 💻 PowerShell for basic identity and access automation 
 
 Each project is designed to practice how identities are created, secured, and monitored in modern environments. I’m transitioning from IT help desk into IAM and use these labs to sharpen my skills and show my thinking.
-
+--------
  
 
 🎓 Certifications:
