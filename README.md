@@ -4,10 +4,12 @@ Welcome to my IAM lab collection — where I document real-world identity and cl
 
 I specialize in:
 
-- 🔑 Identity & Access Management (IAM) for Microsoft 365, Active Directory, and Azure  
-- 🛡️ Microsoft Entra ID (Azure AD) security, MFA, and Conditional Access  
+- 🔑 Identity & Access Management (IAM) across Microsoft 365, Active Directory, and Azure  
+- 🛡️ Microsoft Entra ID (Azure AD) identity security, MFA, and Conditional Access  
 - 👥 Identity lifecycle and access governance (joiners, movers, leavers)  
-- 📩 ServiceNow ticketing workflows used for user onboarding and offboarding  
+- 📩 ServiceNow ticketing workflows for user onboarding, role changes, and offboarding.
+
+
 
 I’m currently learning:
 
