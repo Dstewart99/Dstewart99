@@ -27,6 +27,8 @@ For detailed weekly labs, scenarios, and notes, see my IAM portfolio repo:
 
 👉 [IAM--Portfolio](https://github.com/Dstewart99/IAM--Portfolio)
 
+👉 [IAM-Knowledge-Base](https://github.com/Dstewart99/IAM-Knowledge-Base)
+
 📍 Based in NC · Open to remote IAM Analyst opportunities  
 
 - LinkedIn: https://www.linkedin.com/in/deandra-stewart-2301a6352/  
