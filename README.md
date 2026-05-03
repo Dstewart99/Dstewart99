@@ -17,7 +17,7 @@ Each project is designed to practice how identities are created, secured, and mo
 - CompTIA Security+  
 - Microsoft Azure Fundamentals (AZ-900)  
 - Microsoft Security, Compliance, and Identity (SC-900)
-- Currently studying for Okta Professional certification
+- Okta Professional certification
 
 ---
 
